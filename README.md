@@ -1,4 +1,4 @@
-# hash-package-workshop_2017-08-23
+# 2017-08-23_hash-package-workshop
 Materials from workshop on the hash package, held August 23, 2017
 
 Includes:
