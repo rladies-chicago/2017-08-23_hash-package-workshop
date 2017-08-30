@@ -2,19 +2,19 @@
 title: 'Hash\: dictionaries for R'
 author: "Liz Sander, Civis Analytics"
 date: "August 23, 2017"
+fontsize: 10pt
 output:
-  slidy_presentation:
-    incremental: yes
-    logo: CIVIS_ICON_0116.png
-  ioslides_presentation:
-    incremental: yes
-    logo: CIVIS_ICON_0116.png
   beamer_presentation:
     colortheme: beaver
     fonttheme: structurebold
     incremental: yes
-    logo: CIVIS_ICON_0116.png
     theme: Boadilla
+  ioslides_presentation:
+    incremental: yes
+    logo: CIVIS_ICON_0116.png
+  slidy_presentation:
+    incremental: yes
+    logo: CIVIS_ICON_0116.png
 ---
 
 ## What is a dictionary?
